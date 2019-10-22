@@ -12,6 +12,6 @@ this project is just introduction of how to use **PyCharm** and how to work coll
 # Screenshot of project module
 
 * This is screenshot of the working project module on local system.
- [Image Screenshot](/Pycharm_1.png)
+ ![Image Screenshot](/Pycharm_1.png)
 
 
